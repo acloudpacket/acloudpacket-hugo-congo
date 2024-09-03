@@ -1,3 +1,4 @@
-baseURL = 'https://acloudpacket.com/'
+#baseURL = 'https://acloudpacket.com/'
+baseURL = 'http://localhost/'
 languageCode = 'en-us'
 title = 'A Cloud Packet'
