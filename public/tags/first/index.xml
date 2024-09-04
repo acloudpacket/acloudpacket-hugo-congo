@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>First on A Cloud Packet</title>
-    <link>http://localhost/tags/first/</link>
+    <link>http://localhost:1313/tags/first/</link>
     <description>Recent content in First on A Cloud Packet</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How We Got Here</title>
-      <link>http://localhost/posts/how-we-got-here/</link>
+      <link>http://localhost:1313/posts/how-we-got-here/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost/posts/how-we-got-here/</guid>
+      <guid>http://localhost:1313/posts/how-we-got-here/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
     </item>
   </channel>
