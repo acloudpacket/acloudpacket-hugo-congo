@@ -4,21 +4,14 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/markdown-examples/</loc>
+            <loc>http://localhost/posts/</loc>
             <lastmod>2024-09-03T15:06:06-04:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/posts/</loc>
-            <lastmod>2024-09-03T15:06:06-04:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>http://localhost/</loc>
             <lastmod>2024-09-03T15:06:06-04:00</lastmod>
           </url>
     
@@ -29,7 +22,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/how-we-got-here/</loc>
+            <loc>http://localhost/posts/how-we-got-here/</loc>
             <lastmod>2024-08-31T00:00:00+00:00</lastmod>
           </url>
     
@@ -42,21 +35,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
-            <lastmod>2024-08-29T21:13:23-04:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/about/my-first-post/</loc>
-            <lastmod>2024-08-29T21:13:23-04:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/posts/my-first-post/</loc>
+            <loc>http://localhost/about/</loc>
             <lastmod>2024-08-29T21:13:23-04:00</lastmod>
           </url>
     
